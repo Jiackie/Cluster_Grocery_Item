@@ -7,4 +7,4 @@ First, find the customer who bought the most items overall in her lifetime.
 
 Second, for each item, the customer who bought that product the most.
 
-Finally, find the best clustring categories and assign the items into these categories by using KMean model and PCA concept.
+Finally, find the best clustring categories and assign the items into these categories by using Principal Component Analysis(PCA) procedure and K-Means Clustering.
